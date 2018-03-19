@@ -1,0 +1,3 @@
+/home/david/Proyectos/opencv/HGD/CMakeFiles/rebuild_cache.dir
+/home/david/Proyectos/opencv/HGD/CMakeFiles/edit_cache.dir
+/home/david/Proyectos/opencv/HGD/CMakeFiles/main.dir
